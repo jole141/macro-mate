@@ -9,14 +9,14 @@ individual user needs.
 ### App Screenshots
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="./app/assets/screenshots/Screenshot_Login.png" alt="Login" style="width: 30%;">
-  <img src="./app/assets/screenshots/Screenshot_New_Acc.png" alt="New Acc" style="width: 30%;">
-  <img src="./app/assets/screenshots/Screenshot_Request.png" alt="Requests" style="width: 30%;">
+  <img src="./app/assets/screenshots/Screenshot_Login.PNG" alt="Login" style="width: 30%;">
+  <img src="./app/assets/screenshots/Screenshot_New_Acc.PNG" alt="New Acc" style="width: 30%;">
+  <img src="./app/assets/screenshots/Screenshot_Request.PNG" alt="Requests" style="width: 30%;">
 </div>
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="./app/assets/screenshots/Screenshot_Meal_Clients.png" alt="Meal Clients" style="width: 30%;">
-  <img src="./app/assets/screenshots/Screenshot_Client_Plan.png" alt="Meal Plan" style="width: 30%;">
+  <img src="./app/assets/screenshots/Screenshot_Meal_Clients.PNG" alt="Meal Clients" style="width: 30%;">
+  <img src="./app/assets/screenshots/Screenshot_Client_Plan.PNG" alt="Meal Plan" style="width: 30%;">
 </div>
 
 
