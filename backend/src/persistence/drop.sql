@@ -1,0 +1,11 @@
+DROP TABLE meal_ingredients;
+DROP TABLE review;
+DROP TABLE meal;
+DROP TABLE meal_plan;
+DROP TABLE request;
+DROP TABLE client_weights;
+DROP TABLE app_user;
+DROP TABLE weighing_date;
+DROP TABLE meal_type;
+DROP TABLE role;
+DROP TABLE ingredient;
